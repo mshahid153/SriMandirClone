@@ -1,0 +1,39 @@
+
+.intro{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #fef5ec;
+    height: 580px;
+    color: black;
+}
+
+.intro-left{
+    margin-right: 50px;
+}
+
+.intro-left h1{
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.achievement{
+    display: flex;
+    flex-direction: row;
+}
+
+.achievement img{
+    width: 32px;
+    height: 32px;
+}
+
+.app-link img{
+    width: 197px;
+    margin-right: 10px;
+}
+
+.intro-right img{
+    width: 530px;
+}
